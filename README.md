@@ -1,5 +1,3 @@
-![Descricao da sua imagem](thumb-react-ts.png)
-
 # Luz e Cena
 
 Landing page de um site focado em cinema, que exibe os filmes em cartaz e que ainda vão estrear permitindo selecionar localidade, buscar filmes pelo título, se inscrever para receber informações e muito mais.
@@ -25,10 +23,6 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `react-icons`: biblioteca de ícones do React
 - `CSS modules`: para escrever css no React
 
-## 📁 Acesso ao projeto
-
-Você pode [acessar o código fonte do projeto inicial](https://github.com/NeiltonSeguins/4472-react-ts) ou [baixá-lo](https://github.com/NeiltonSeguins/4472-react-ts/archive/refs/heads/aula-01.zip). Se você quiser acessar o figma do projeto, só [clicar neste link](https://www.figma.com/community/file/1464265240934231932).
-
 ## 🛠️ Abrir e rodar o projeto
 
 Após baixar o projeto, você pode abri-lo no Visual Studio Code. Para isso, siga os passos abaixo:
@@ -38,6 +32,6 @@ Após baixar o projeto, você pode abri-lo no Visual Studio Code. Para isso, sig
 2. Procure o local onde o projeto foi salvo e selecione a pasta (se o projeto foi baixado como um arquivo ZIP, será necessário extraí-lo antes).
 3. Clique em **OK**.
 
-## 📚 Mais informações do curso
+## 📚 Sobre o curso
 
 Gostou do projeto e quer conhecer mais? Você pode [acessar o curso](https://cursos.alura.com.br) que desenvolve o projeto desde o começo!
